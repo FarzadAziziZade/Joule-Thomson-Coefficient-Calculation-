@@ -2,8 +2,8 @@
 Joule Thomson Coefficient Calculation
 
 
-MATLAB
+MATLAB --> R2021b
 
-FORTRAN
+FORTRAN --> FTN95
 
-PYTHON
+PYTHON --> 3.9.6
