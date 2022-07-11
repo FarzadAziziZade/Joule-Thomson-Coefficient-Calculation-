@@ -1,4 +1,3 @@
-!in the name of Allah, the entirely merciful, the easpecially merciful
 Program JouleThomson
 implicit none
 real::R,PC_CH4,PC_C2H6,TC_CH4,TC_C2H6,b_CH4,b_C2H6,w_CH4,w_C2H6,x
