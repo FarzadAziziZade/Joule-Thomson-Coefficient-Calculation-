@@ -1,5 +1,5 @@
-# Joule-Thomson-Coefficient-Calculation-
-Joule Thomson Coefficient Calculation
+# Joule-Thomson-Coefficient-Calculator
+Joule Thomson Coefficient Calculator
 
 
 MATLAB --> R2021b
